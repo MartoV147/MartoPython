@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "Mazda",
+    "model": "6",
+    "consumption": 0.10,
+    "license_plate": "BH3565AB",
+    "price_per_hour": 19.99,
+    "price_per_day": 499.99,
+    "price_per_week": 3459.99,
+    "is_available": true
+  },
+  {
+    "brand": "VW",
+    "model": "Golf 4",
+    "consumption": 0.08,
+    "license_plate": "PA2589BH",
+    "price_per_hour": 15.99,
+    "price_per_day": 379.99,
+    "price_per_week": 2599.99,
+    "is_available": true
+  },
+  {
+    "brand": "Audi",
+    "model": "A6",
+    "consumption": 0.11,
+    "license_plate": "PB4296HH",
+    "price_per_hour": 20.99,
+    "price_per_day": 499.99,
+    "price_per_week": 3459.99,
+    "is_available": true
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "156",
+    "consumption": 0.07,
+    "license_plate": "E2996XA",
+    "price_per_hour": 17.99,
+    "price_per_day": 429.99,
+    "price_per_week": 2999.99,
+    "is_available": true
+  },
+  {
+    "brand": "Mercedes",
+    "model": "C280",
+    "consumption": 0.10,
+    "license_plate": "BH3565AB",
+    "price_per_hour": 19.99,
+    "price_per_day": 499.99,
+    "price_per_week": 3459.99,
+    "is_available": true
+  },
+  {
+    "brand": "BMW",
+    "model": "320",
+    "consumption": 0.11,
+    "license_plate": "PA2586AH",
+    "price_per_hour": 15.99,
+    "price_per_day": 379.99,
+    "price_per_week": 2599.99,
+    "is_available": true
+  },
+  {
+    "brand": "Opel",
+    "model": "Astra",
+    "consumption": 0.09,
+    "license_plate": "BH2214AB",
+    "price_per_hour": 19.99,
+    "price_per_day": 499.99,
+    "price_per_week": 3459.99,
+    "is_available": true
+  },
+  {
+    "brand": "Citroen",
+    "model": "407",
+    "consumption": 0.08,
+    "license_plate": "CT3369KM",
+    "price_per_hour": 16.99,
+    "price_per_day": 389.99,
+    "price_per_week": 2699.99,
+    "is_available": true
+  },
+  {
+    "brand": "Mazda",
+    "model": "3",
+    "consumption": 0.10,
+    "license_plate": "BH5589AB",
+    "price_per_hour": 19.99,
+    "price_per_day": 499.99,
+    "price_per_week": 3459.99,
+    "is_available": true
+  },
+  {
+    "brand": "Lexus",
+    "model": "IS250",
+    "consumption": 0.08,
+    "license_plate": "A0937TT",
+    "price_per_hour": 15.99,
+    "price_per_day": 379.99,
+    "price_per_week": 2599.99,
+    "is_available": true
+  }
+]
