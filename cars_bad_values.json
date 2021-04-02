@@ -1,0 +1,10 @@
+[
+  {
+    "brand": 123,
+    "model": 2,
+    "consumption": "0.10",
+    "license_plate": 125,
+    "price_per_hour": "whatever",
+    "is_available": true
+  }
+]
